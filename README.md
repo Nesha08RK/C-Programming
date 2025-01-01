@@ -20,3 +20,6 @@
 **OUTPUT OF TASK 1**
 
 
+Task1 Output(https://github.com/user-attachments/assets/42954a1a-017b-4b25-8c81-84ed0bcd80c7)
+
+
