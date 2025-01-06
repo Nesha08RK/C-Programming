@@ -36,7 +36,7 @@ Task 2(https://github.com/user-attachments/assets/3cda9260-fe4e-4645-b52b-a2e864
 The objective of this task is to create a simple lexical analyzer that scans a source code file and categorizes its components into distinct token types such as keywords, operators, and identifiers. This is a foundational step in compiler design, where the analyzer transforms raw code into a structured format for further processing.
 
 **OUTPUT OF TASK 3**
-
+https://github.com/Nesha08RK/C-Programming/issues/3#issue-2770939016
 
 
 # TASK 4
