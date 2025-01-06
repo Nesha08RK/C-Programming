@@ -10,7 +10,6 @@
 
 **BATCH DURATION**:  December 30th, 2024 to January 30th, 2025
 
-**MENTOR NAME** : 
 
 # TASK 1
 **Description:**
@@ -31,3 +30,18 @@ Task1 Output(https://github.com/user-attachments/assets/42954a1a-017b-4b25-8c81-
 
 **OUTPUT OF TASK 2**
 Task 2(https://github.com/user-attachments/assets/3cda9260-fe4e-4645-b52b-a2e8641cddba)
+
+# TASK 3
+**Description:**
+The objective of this task is to create a simple lexical analyzer that scans a source code file and categorizes its components into distinct token types such as keywords, operators, and identifiers. This is a foundational step in compiler design, where the analyzer transforms raw code into a structured format for further processing.
+
+**OUTPUT OF TASK 3**
+
+
+
+# TASK 4
+**Description:**
+This program implements Run-Length Encoding (RLE) to compress and decompress text files by replacing repeated characters with their count, reducing file size. It supports both compression and decompression of text files.
+
+**OUTPUT OF TASK 4**
+
